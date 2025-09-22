@@ -22,7 +22,7 @@ It was created as part of a learning project while following [**CodeWithHarry’
 ## 🖼️ Preview
 
 ### Desktop View
-![Desktop Screenshot](https://github.com/ShivamMahto2105/NetFlix-Clone/blob/main/Desktop.png)
+![Desktop Screenshot](https://github.com/ShivamMahto2105/VirexPlay-Clone/blob/main/Desktop.png)
 
 
 
